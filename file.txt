@@ -1,3 +1,4 @@
 Жили-были на свете 3 разработчика.
-И звали их: Mr. First Agents, Mr. Second и Mr. Third Agent
+<<<<<<< HEAD
+И звали их: Mr. First Agents, Mr. Second и Mr. Third
 
